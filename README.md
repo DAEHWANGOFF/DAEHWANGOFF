@@ -24,15 +24,6 @@ Discord: @dhvm
 
 ## 🔧 주요 프로젝트
 
-### [프로젝트 이름](링크)
-짧은 프로젝트 설명을 여기에 작성하세요. 이 프로젝트는 어떤 문제를 해결하며, 어떤 기능을 제공하는지 간단히 소개해 주세요.
-
-- **기능 1**: 이 기능은 ...
-- **기능 2**: 이 기능은 ...
-- **기능 3**: 이 기능은 ...
-
-### [다른 프로젝트 이름](링크)
-프로젝트 설명 및 링크를 추가하세요.
 
 ## 📜 기술 스택
 
@@ -42,17 +33,9 @@ Discord: @dhvm
 - **데이터베이스**: MongoDB, MySQL, PostgreSQL
 - **클라우드/서버**: AWS, Heroku, Netlify
 
-## 📞 연락처
-
-- ✉️ **이메일**: your-email@example.com
-- 🌐 **웹사이트**: [yourwebsite.com](https://yourwebsite.com) (있다면)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn**: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ## 📚 나의 학습 여정
 
-현재 **[학습 중인 기술](기술 링크)**에 대한 정보를 넣고, 관련 자료나 블로그, 책 등을 여기에 추가할 수 있습니다.  
-기술 블로그나 학습한 내용을 공유하는 것도 좋습니다!
 
 - **[기술/도서 1]**
 - **[기술/도서 2]**
